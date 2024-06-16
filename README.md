@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im4235
 - 👀 I’m interested in ... CompSci, History, Politics & Language
-- 🌱 I’m currently learning ...Python for DataScience
+- 🌱 I’m currently learning ...JavaScript and Python for DataScience
 
 
 <!---
